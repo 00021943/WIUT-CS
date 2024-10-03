@@ -5,3 +5,6 @@ from seminar2.task4 import hello_user
 hello_user("Alice")
 hello_user("Bob")
 hello_user("Charlie")
+
+# Additional task for practicing git merge:
+hello_user("David")
